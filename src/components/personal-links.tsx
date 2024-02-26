@@ -6,10 +6,10 @@ const size = 40
 const links = [
   {
     url: "https://github.com/Kerpooo",
-    icon: <GitHubLogoIcon width={size} height={size}/>,
+    icon: <GitHubLogoIcon width={size} height={size} />,
   },
   {
-    url: "h",
+    url: "https://www.linkedin.com/in/kevinrincon/",
     icon: <LinkedInLogoIcon width={size} height={size} />,
   },
 ]

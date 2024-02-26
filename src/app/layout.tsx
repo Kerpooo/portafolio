@@ -6,6 +6,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
+  title: "Kevin Rincon",
+  description:
+    "Kevin Rincon es un ingeniero de sistemas que desarrolla software con distintos lenguajes de programacion como javascript y python.",
   openGraph: {
     title: "Kevin Rincon",
     description:
