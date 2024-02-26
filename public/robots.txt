@@ -11,3 +11,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
+Sitemap: https://www.kerpo.xyz/sitemap.xml
